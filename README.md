@@ -1,2 +1,2 @@
 # exercicio-html
-Exercício inicial de html+CSS para o constudelas.
+Exercício inicial de html+CSS para o construdelas.
